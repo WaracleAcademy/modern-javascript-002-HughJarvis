@@ -1,0 +1,28 @@
+{
+  "results": [
+  {
+   "id": "1",
+   "name": "My bike",
+   "colour": "silver",
+   "cleanliness": "medium"
+  },
+  {
+   "id": "2",
+   "name": "Jo's bike",
+   "colour": "grey",
+   "cleanliness": "very low"
+  },
+  {
+   "id": "3",
+   "name": "Milo's bike",
+   "colour": "red",
+   "cleanliness": "medium"
+  },
+  {
+   "id": "4",
+   "name": "Ruth's bike",
+   "colour": "red",
+   "cleanliness": "high"
+  }
+ ]
+}
