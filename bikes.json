@@ -4,25 +4,29 @@
    "id": "1",
    "name": "My bike",
    "colour": "silver",
-   "cleanliness": "medium"
+   "cleanliness": "medium",
+   "tyrePressure": "flat"
   },
   {
    "id": "2",
    "name": "Jo's bike",
    "colour": "grey",
-   "cleanliness": "very low"
+   "cleanliness": "very low",
+   "tyrePressure": "soft"
   },
   {
    "id": "3",
    "name": "Milo's bike",
    "colour": "red",
-   "cleanliness": "medium"
+   "cleanliness": "medium",
+   "tyrePressure": "hard" 
   },
   {
    "id": "4",
    "name": "Ruth's bike",
    "colour": "red",
-   "cleanliness": "high"
+   "cleanliness": "high",
+   "tyrePressure": "hard" 
   }
  ]
 }
