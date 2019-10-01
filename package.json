@@ -4,6 +4,7 @@
   "description": "A Base Repository to store work done for the Waracle Digital Academy Modern JavaScript 002 course",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
