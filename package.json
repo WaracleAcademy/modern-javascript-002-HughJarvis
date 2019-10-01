@@ -1,0 +1,23 @@
+{
+  "name": "bike-manager",
+  "version": "1.0.0",
+  "description": "A Base Repository to store work done for the Waracle Digital Academy Modern JavaScript 002 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaracleAcademy/modern-javascript-002-HughJarvis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaracleAcademy/modern-javascript-002-HughJarvis/issues"
+  },
+  "homepage": "https://github.com/WaracleAcademy/modern-javascript-002-HughJarvis#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}

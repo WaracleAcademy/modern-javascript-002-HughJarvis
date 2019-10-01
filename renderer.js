@@ -2,4 +2,5 @@
     const mainView = document.querySelector('#primaryView');
     mainView.innerHTML = htmlContent;
   }
+
   
