@@ -1,5 +1,5 @@
 {
-  "results": [
+  "bikes": [
   {
    "id": "1",
    "name": "My bike",
@@ -19,14 +19,14 @@
    "name": "Milo's bike",
    "colour": "red",
    "cleanliness": "medium",
-   "tyrePressure": "hard" 
+   "tyrePressure": "hard"
   },
   {
    "id": "4",
    "name": "Ruth's bike",
    "colour": "red",
    "cleanliness": "high",
-   "tyrePressure": "hard" 
+   "tyrePressure": "hard"
   }
  ]
 }
