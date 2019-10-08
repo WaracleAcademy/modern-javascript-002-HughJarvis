@@ -1,10 +1,30 @@
   import { render } from './renderer.js';
   import * as bikes from './bikes.json';
 
-  console.log(bikes.results);
 
+  function getThingTemplate(thing){
+    return `<li>Name: ${thing.name}</li> <p>colour: ${thing.colour} - cleanliness: ${thing.cleanliness}</p>`
+  }
 
+  function sortMyStuff(first, second){
+    if(first.rating > second.rating ){
+    return -1;
+  }
+    else if(first.rating < second.rating) {
+      return 1;
+    }
+    else {
+      return 0;
+    }
+  }
 
-  render(`
-    <h2>Text in here here here</h2>
-    `);
+  const things = bikes.results.sort(sortMyStuff);
+  let content = `<ul>`
+
+  for(let i=0; i<things.length; i += 1){
+    console.log(things[i]);
+    content += getThingTemplate(things[i]);
+  }
+  content += `</ul>`;
+
+  render(content);

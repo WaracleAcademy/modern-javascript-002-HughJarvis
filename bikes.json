@@ -7,7 +7,8 @@
    "cleanliness": "medium",
    "tyrePressure": "flat",
    "spokeyDokeys": "no",
-   "bell": "black"
+   "bell": "black",
+   "rating": 4
   },
   {
    "id": "2",
@@ -16,7 +17,8 @@
    "cleanliness": "very low",
    "tyrePressure": "soft",
    "spokeyDokeys": "no",
-   "bell": "silver"
+   "bell": "silver",
+   "rating": 2
   },
   {
    "id": "3",
@@ -25,7 +27,8 @@
    "cleanliness": "medium",
    "tyrePressure": "hard",
    "spokeyDokeys": "no",
-   "bell": "black"
+   "bell": "black",
+   "rating": 4
   },
   {
    "id": "4",
@@ -34,7 +37,8 @@
    "cleanliness": "high",
    "tyrePressure": "hard",
    "spokeyDokeys": "yes",
-   "bell": "white"
+   "bell": "white",
+   "rating": 4
   }
  ]
 }
