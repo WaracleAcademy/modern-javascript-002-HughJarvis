@@ -1,7 +1,7 @@
   import { render } from './renderer.js';
   import * as bikes from './bikes.json';
 
-  console.log(data.results);
+  console.log(bikes.results);
 
 
 
