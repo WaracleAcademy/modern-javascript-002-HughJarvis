@@ -26,5 +26,5 @@
     content += getThingTemplate(things[i]);
   }
   content += `</ul>`;
-
+console.log('this is a feature branch ken');
   render(content);
